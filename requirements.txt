@@ -1,0 +1,5 @@
+numpy>=1.26,<2
+tensorflow>=2.16,<2.18
+scikit-learn
+matplotlib
+streamlit>=1.39
